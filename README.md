@@ -47,6 +47,7 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="250"
+    height="200"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocarneiroalm&layout=compact&theme=dark&custom_title=Tecnologias&langs_count=9"
     />
+</p>
