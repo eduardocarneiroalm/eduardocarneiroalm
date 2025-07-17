@@ -41,7 +41,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api?username=eduardocarneiro&show_icons=true&theme=dark" 
   />
 
   <img 
