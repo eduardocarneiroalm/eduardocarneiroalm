@@ -8,7 +8,7 @@
 
 • Atualmente, curso Técnico em Redes de Computadores na EEEP Leonel de Moura Brizola, onde estou no terceiro ano do Ensino Médio.
 
-• No momento, estou focando meus estudos em <b>Typescript e nodeJS</b> para construir aplicações robustas com <b>MySQL</b> no back-end, com o objetivo de integrá-las futuramente a projetos front-end.
+• No momento, estou focando meus estudos em <b>Typescript e nodeJs</b> para construir aplicações robustas com <b>MySQL</b> no back-end, com o objetivo de integrá-las futuramente a projetos front-end.
 
 ---
 
