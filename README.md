@@ -37,12 +37,9 @@
 
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&theme=dark" 
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardocarneiro&show_icons=true&theme=radical"/>
+  </div>
   />
 
   <img 
