@@ -54,7 +54,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&bg_color=0a0a0a&text_color=c6c6c6&border_color=5e5e5e&cache_seconds=1800"
-    height="160"
+    height="190"
     padding-right="40"
   />
   <img 
