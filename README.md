@@ -57,6 +57,7 @@
     height="190"
     padding-right="40"
   />
+  <img width="10"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocarneiroalm&layout=compact&bg_color=0a0a0a&text_color=c6c6c6&border_color=5e5e5e&cache_seconds=1800"
     height="160"
