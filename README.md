@@ -57,12 +57,12 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&theme=dracula&cache_seconds=1800"
-    height="160"
+    height="180"
   />
   <img width="12"/>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocarneiroalm&layout=compact&theme=dracula&cache_seconds=1800"
-    height="160"
+    height="180"
   />
 </p>
 
