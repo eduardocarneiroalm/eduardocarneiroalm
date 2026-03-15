@@ -53,7 +53,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&theme=transparent&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=eduardocarneiroalm&show_icons=true&bg_color=4e97d1&cache_seconds=1800"
     height="160"
     padding-right="40"
   />
